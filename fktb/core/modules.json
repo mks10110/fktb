@@ -813,7 +813,7 @@
                 "dependency":
                         [
                             {
-                                "name": "",
+                                "name": "tcpdump",
                                 "homepage":
                                         [
                                             ""
@@ -825,11 +825,11 @@
                                 "install":
                                         [
                                             {
-                                                "type": "",
-                                                "target": "",
+                                                "type": "apt-get",
+                                                "target": "tcpdump",
                                                 "tested":
                                                         [
-                                                            ""
+                                                            "ubuntu 12.10"
                                                         ]
                                             }
                                         ]
@@ -842,7 +842,7 @@
                 "dependency":
                         [
                             {
-                                "name": "",
+                                "name": "tcptrack",
                                 "homepage":
                                         [
                                             ""
@@ -854,11 +854,11 @@
                                 "install":
                                         [
                                             {
-                                                "type": "",
-                                                "target": "",
+                                                "type": "apt-get",
+                                                "target": "tcptrack",
                                                 "tested":
                                                         [
-                                                            ""
+                                                            "ubuntu 12.10"
                                                         ]
                                             }
                                         ]
@@ -871,7 +871,7 @@
                 "dependency":
                         [
                             {
-                                "name": "",
+                                "name": "tcpflow",
                                 "homepage":
                                         [
                                             ""
@@ -883,11 +883,11 @@
                                 "install":
                                         [
                                             {
-                                                "type": "",
-                                                "target": "",
+                                                "type": "apt-get",
+                                                "target": "tcpflow",
                                                 "tested":
                                                         [
-                                                            ""
+                                                            "ubuntu 12.10"
                                                         ]
                                             }
                                         ]
